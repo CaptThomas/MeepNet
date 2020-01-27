@@ -13,4 +13,6 @@ clients = ['marshallking061@cock.li',
           'marshallking061@420blaze.it',
           'marshallking061@cumallover.me',
           'marshallking061@goat.si',
-          'marshallking061@horsefucker.org',]
+          'marshallking061@horsefucker.org',
+          'marshallking061@national.shitposting.agency',
+          'marshallking061@cock.lu']
