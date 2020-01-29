@@ -1,8 +1,8 @@
 #email server
-server = 'mail.cock.li'
+server = 'smtp.yandex.com'
 
 #email server port
-port = 587
+port = 465
 
 #password to all emails
 clientpass = "password"
